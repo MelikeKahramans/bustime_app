@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815422280111",
+    "project_id": "otobuskalkfirebase",
+    "storage_bucket": "otobuskalkfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815422280111:android:01345af7f181a56fdbdf5a",
+        "android_client_info": {
+          "package_name": "com.example.otobuskalkfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815422280111-veeemq03g49r9m62r31nshvdk4qhv3iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwOovSZyNOjtaHKpxDtSmduljpcHF5Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815422280111-veeemq03g49r9m62r31nshvdk4qhv3iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
